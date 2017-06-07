@@ -44,7 +44,7 @@ public class Intro extends Activity {
         public  void  onAnimationRepeat(Animation animation) {
     }
 
-
+///////////////////////////ILYAAAAAAAAAAAAAAAAAAAA
 
 });
 
